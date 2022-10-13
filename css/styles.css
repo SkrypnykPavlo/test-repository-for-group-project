@@ -21,6 +21,19 @@ body {
   font-style: normal;
   font-size: 14px;
 }
+
+.change-sample {
+  margin: 0 auto;
+  background-color: #000000;
+  text-align: center;
+}
+
+.change-text {
+  font-weight: 700;
+  font-size: 90px;
+  line-height: 100px;
+  color: red;
+}
 /* Header */
 .header {
   background-color: var(--background-heder-color);
