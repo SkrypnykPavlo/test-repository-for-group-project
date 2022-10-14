@@ -216,8 +216,7 @@ a {
   color: var(--background-heder-color);
   background-color: var(--accent-text-color);
 }
-.card-portfolio {
-}
+
 .card-title-portfolio {
   color: var(--primery-text-color);
   font-weight: 500;
